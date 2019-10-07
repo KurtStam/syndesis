@@ -143,6 +143,7 @@
     <module>ui-react</module>
     <module>../doc</module>
     <module>test</module>
+    <module>standalone</module>
   </modules>
 
   <profiles>
